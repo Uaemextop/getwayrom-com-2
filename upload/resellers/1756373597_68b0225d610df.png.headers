@@ -1,0 +1,16 @@
+{
+  "url": "https://getwayrom.com/upload/resellers/1756373597_68b0225d610df.png",
+  "status_code": 200,
+  "headers": {
+    "Connection": "Keep-Alive",
+    "Keep-Alive": "timeout=5, max=100",
+    "Cache-Control": "public, max-age=604800",
+    "Expires": "Thu, 19 Mar 2026 19:08:56 GMT",
+    "Content-Type": "image/png",
+    "Last-Modified": "Thu, 28 Aug 2025 09:33:17 GMT",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "451075",
+    "Date": "Thu, 12 Mar 2026 19:08:56 GMT",
+    "Server": "LiteSpeed"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://needmerom.com/",
+  "status_code": 200,
+  "headers": {
+    "Connection": "Keep-Alive",
+    "Keep-Alive": "timeout=5, max=100",
+    "X-Powered-By": "PHP/8.2.30",
+    "set-cookie": "PHPSESSID=k5o9c5d4hmcrj5aiv5qud68teg; path=/; secure",
+    "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+    "Cache-Control": "no-store, no-cache, must-revalidate",
+    "Pragma": "no-cache",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Content-Encoding": "br",
+    "Vary": "Accept-Encoding",
+    "Date": "Thu, 12 Mar 2026 19:08:46 GMT",
+    "Server": "LiteSpeed",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\""
+  }
+}
